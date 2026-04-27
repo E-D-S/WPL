@@ -51,6 +51,7 @@
   border: 1px solid var(--dark-color);
   overflow: auto;
 }
+
 .tabs .tabs-panel[aria-hidden='true'] {
   display: none;
 }
