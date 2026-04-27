@@ -99,7 +99,7 @@
   z-index: 1;
 }
 
-/* stylelint-disable-next-line no-descending-specificity */
+
 .carousel .carousel-navigation-buttons button {
   position: relative;
   width: 44px;
